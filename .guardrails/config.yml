@@ -1,7 +1,5 @@
 enabled: true
 bundles:
- - javascript:
-      - eslint
   - general:
     - gr-secrets
 report:
