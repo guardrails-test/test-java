@@ -4,3 +4,6 @@ bundles:
     - gr-secrets
 report:
   pullRequest: "onAllFiles"
+notifications:
+  slack:
+    enabled: false
