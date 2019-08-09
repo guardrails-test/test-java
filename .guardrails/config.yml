@@ -1,7 +1,4 @@
 enabled: true
-bundles:
-  - general:
-    - gr-secrets
 report:
   pullRequest: "onAllFiles"
 notifications:
