@@ -5,6 +5,7 @@ notifications:
   slack:
     enabled: false
 bundles:
-  java:
+  - java:
     - spotbugs
     - dependency-check
+  - general
