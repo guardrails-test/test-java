@@ -6,3 +6,5 @@ notifications:
     enabled: false
 bundles:
   - java
+    - spotbugs
+    - dependency-check
