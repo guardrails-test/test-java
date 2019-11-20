@@ -4,3 +4,5 @@ report:
 notifications:
   slack:
     enabled: false
+bundles:
+  - java
