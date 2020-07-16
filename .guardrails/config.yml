@@ -7,5 +7,3 @@ notifications:
 bundles:
   - java:
     - spotbugs
-    - dependency-check
-  - general
